@@ -1,4 +1,5 @@
 import Aside from "./components/Aside";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function App() {
   return (
