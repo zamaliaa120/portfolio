@@ -8,9 +8,11 @@ export default {
   ],
   theme: {
     colors: {
-      primary: "#382BF0",
+      purple: "#A688FA",
+      lightPurple: "#BA9FFB",
       black: "#121212",
       gray: "#282828",
+      lightGray: "#717171",
     },
     fontFamily: {
       sans: ["Poppins", "sans-serif"],
